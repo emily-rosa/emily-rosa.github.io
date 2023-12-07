@@ -15,4 +15,6 @@ My GitHub page is http://github.com/emily-rosa.
 
     Lab 6 Part 1, was a favorite because it was a pattern program using arguments and strings. It was based on a Mad Lib and you were creating sandwiches. It was a fun simple lab, and I had a great time coding it.
 
-* [Lab ]()
+* [Lab 10](https://github.com/cpsc-fall-2023/cpsc-120-lab-10-emily-d/blob/main/part-2/counties.cc)
+
+    Lab 10 part 2 was my favorite because I learned the differnet counties in California. The lab used vectors and string and it used all my knowledge of both indicaters. I liked this code because of how simple yet complex the program was.
