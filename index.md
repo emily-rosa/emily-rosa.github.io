@@ -1,4 +1,4 @@
-# *ੈ✩‧₊˚༺Hello World༻*ੈ✩‧₊˚ 
+# *ੈ✩‧₊˚༺Emily's Portfolio*ੈ✩‧₊˚ 
 
 This is my home page! My name is Emily De La Rosa and I am a student at [Cal State Fullerton](http:/www.fullerton.edu/) and my major is Computer Science.
 ## Computer Science Projects
@@ -7,4 +7,8 @@ My GitHub page is http://github.com/emily-rosa.
 
 ### CPSC 120
 
-* Lab 7
+* [Lab 9](https://github.com/cpsc-fall-2023/cpsc-120-lab-09-emily/blob/main/part-2/schedule.cc)
+
+    I did Lab 9 by myself because I was absent the day it was assigned. I won't lie I was nervous because i havent coded a whole lab by myself before. I like Lab 9 the most because I was able to complete a passing lab alone. I mainly liked Lab 9, Part 2 because I was able to create a schedule to prevent two philosopher from eating at the same time.
+
+*[Lab ]
